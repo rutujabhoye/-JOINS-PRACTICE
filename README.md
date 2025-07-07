@@ -28,3 +28,8 @@
 ##I also wrote a query to find orders that were placed but didn't include any items, which is important for detecting incomplete or abandoned orders- a common issue in online systems.
 ##This task gave me hands-on experience with relational database design, data integrity, and JOIN logic. It helped me understand how JOINs are used in real-world systems for generating reports, managing transactions, and performing business analysis. Working with foreign keys and writing advanced JOIN queries also improved my ability to think critically about how data is structured and used in full-scale applications.
 ##Overall, this project was an excellent learning oppotunity that deepened my understanding of SQL JOINs and reinforced my ability to apply them in proffessional database systems.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/0a2cdd63-70f5-48e2-a8ef-9981e58cfb09)
+
